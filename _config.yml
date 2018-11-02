@@ -107,7 +107,7 @@ defaults:
       type:            projects
     values:
       menu:            true
-     order:            1
+     order:            2
       seo:
         type:          WebPage
   - scope:
