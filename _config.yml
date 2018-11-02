@@ -113,11 +113,11 @@ defaults:
     values:
       seo:
         type:          WebPage
-  - scope:
-      type:            featured_tags
-    values:
-      seo:
-        type:          WebPage
+#  - scope:
+#      type:            featured_tags
+#    values:
+#      seo:
+#        type:          WebPage
 
 
 # 3rd Party Integrations
