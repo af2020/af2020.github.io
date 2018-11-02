@@ -2,7 +2,7 @@
 layout: list
 title: Hydejack-changed
 slug: hydejack
-menu: true
+menu: false
 order: 3
 description: >
   Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by
