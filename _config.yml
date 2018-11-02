@@ -106,6 +106,8 @@ defaults:
   - scope:
       type:            projects
     values:
+      menu:            true
+     order:            1
       seo:
         type:          WebPage
   - scope:
