@@ -5,16 +5,18 @@ image: /assets/img/blog/hydejack-8.png
 ---
 
 # About
-## Hydejack
+## AF2020
 
-The "Best Jekyll Theme by a Mile".
+"Afternoon will be free in 2020".
 {:.lead}
 
 ![Screenshot](assets/img/blog/hydejack-8.png){:.lead srcset="/assets/img/blog/hydejack-8.png 1920w, /assets/img/blog/hydejack-8@0,5x.png 960w, /assets/img/blog/hydejack-8@0,25x.png 480w" data-width="1920" data-height="1080"}
 Hydejack's cover page on a variety of screens.
 {:.figure}
 
-**Hydejack** is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.
+**AF2020**은 **neo**가 만든 블로그입니다. 앞으로 배우면서 정리하는 공간으로 활용하려고 합니다.
+
+ is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.
 
 > Your presence on the web — A [blog], a [portfolio], and a [resume].
 {:.lead}
@@ -74,18 +76,18 @@ Hydejack uses KaTeX to efficiently render math.
 <!-- $$
 \begin{aligned}
   \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
-            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
-            &= (x_1, \ldots, x_n)
-               \left(\begin{array}{ccc}
-                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
-                 \vdots          & \ddots & \vdots         \\
-                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
-               \end{array}\right)
-               \left(\begin{array}{c}
-                 y_1    \\
-                 \vdots \\
-                 y_n
-               \end{array}\right)
+​            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
+​            &= (x_1, \ldots, x_n)
+​               \left(\begin{array}{ccc}
+​                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
+​                 \vdots          & \ddots & \vdots         \\
+​                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
+​               \end{array}\right)
+​               \left(\begin{array}{c}
+​                 y_1    \\
+​                 \vdots \\
+​                 y_n
+​               \end{array}\right)
 \end{aligned}
 $$ -->
 
