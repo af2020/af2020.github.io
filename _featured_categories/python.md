@@ -1,9 +1,9 @@
 ---
 layout: list
-title: python
+title: Python
 slug: python
 menu: true
-order: 2
+order: 3
 description: >
   python codes for data analysis
   overlay:    false

@@ -1,10 +1,10 @@
 ---
 layout: list
-title: R
-slug: R
+title: Insight
+slug: insight
 menu: true
-order: 4
+order: 1
 description: >
-  R codes for data analysis
+  Insights learned
   overlay:    false
 ---
