@@ -94,9 +94,6 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 defaults:
   - scope:
-      path:            python.md
-    values:
-  - scope:
       path:            hyde
     values:
       accent_color:    rgb(38,139,210)
@@ -109,8 +106,6 @@ defaults:
   - scope:
       type:            projects
     values:
-      menu:            true
-     order:            2
       seo:
         type:          WebPage
   - scope:

@@ -2,7 +2,6 @@
 layout: post
 title:  "python dfply package with diamonds test blog"
 date:   2018-11-02 00:10:00 +0900
-categories: test
 ---
 
 # dfply
