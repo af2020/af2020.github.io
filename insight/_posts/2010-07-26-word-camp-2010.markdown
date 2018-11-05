@@ -1,0 +1,17 @@
+---
+author: neo
+comments: true
+date: 2010-07-26 23:32:33+00:00
+layout: post
+link: http://hubnode.cafe24.com/wp/archives/698
+slug: word-camp-2010
+title: word camp 2010
+wordpress_id: 698
+---
+
+[발표자료](http://wordcamp.wordpress.kr/schedule/wordcamp-seoul-2010/program/)들 살펴보고 도움 얻도록 하자. 그야말로 제대로 써보자.
+
+아래는 윤석찬씨 동영상 "워드 프레스 제대로 쓰기!"
+
+<!-- more -->
+
