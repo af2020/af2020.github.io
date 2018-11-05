@@ -9,8 +9,20 @@ title: oracle version check
 wordpress_id: 1607
 ---
 
-오라클에서 버전 확인할 때.
+# oracle version check
 
+
+
+## 오라클에서 버전 확인할 때
+
+
+
+```sql
 select * from v$version;
+```
+
+
+
+
 
 
