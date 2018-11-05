@@ -9,6 +9,10 @@ title: Oracle Index 조회, 생성, 삭제
 wordpress_id: 1602
 ---
 
+# oracle index 조회, 생성, 삭제
+
+
+
 ## 조회
 
 ```sql
