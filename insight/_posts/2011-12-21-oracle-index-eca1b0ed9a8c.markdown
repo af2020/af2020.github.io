@@ -9,40 +9,31 @@ title: Oracle Index 조회, 생성, 삭제
 wordpress_id: 1602
 ---
 
-조회.
+## 조회
 
-
-<blockquote>
-	
-> * select * from user_ind_columns;
-> 
-	
-> * select * from user_indexes;
-> 
-</blockquote>
+```sql
+select * from user_ind_columns;
+select * from user_indexes;
+```
 
 
 
-생성.
+## 생성
 
-
-<blockquote>
-	
-> * create index [index name] on [테이블이름](컬럼이름);
-> 
-</blockquote>
+```sql
+create index [index name] on [테이블이름](컬럼이름);
+```
 
 
 
+## 삭제
 
-삭제.
+```sql
+drop index [index name];
+```
 
 
-<blockquote>
-	
-> * drop index [index name];
-> 
-</blockquote>
+
 
 
 
