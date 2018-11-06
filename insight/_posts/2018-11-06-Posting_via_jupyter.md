@@ -1,6 +1,8 @@
 
 # posting via jupyter
 
+{:toc}
+
 ## intro
 
 ### tool
