@@ -15,7 +15,7 @@ from plotnine import *
 ```python
 (
     diamonds
-    >> head(5)
+    >> head(15)
 )
 ```
 
@@ -31,7 +31,7 @@ from plotnine import *
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
