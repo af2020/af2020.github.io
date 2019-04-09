@@ -2,10 +2,11 @@
 layout: post
 title:  "python dfply package with diamonds test blog"
 date:   2018-11-02 00:10:00 +0900
-categories: test
 ---
 
-# dfply
+# dfply - R test page
+
+디텍토리 구조가 이렇게 복잡해서야.. 이거 편리하게 쓰려고 한건데 너무 복잡하넹.
 
 정말 잘 써질 수 있을까요?
 이렇게 될 수만 있다면 정말 좋겠네요. 기대 만빵!
