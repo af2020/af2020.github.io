@@ -2,6 +2,8 @@
 
 ### 생각 포인트 1
 
+여러가지 고민을 기록합니다. 
+
 ```python
 # library 불러오기
 
@@ -15,3 +17,4 @@ from plotnine import *
     >> head(5)
 )
 ```
+
