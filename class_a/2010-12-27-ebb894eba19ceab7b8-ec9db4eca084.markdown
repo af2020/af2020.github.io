@@ -1,0 +1,99 @@
+---
+author: admin
+comments: true
+date: 2010-12-27 04:14:57+00:00
+layout: post
+link: http://hubnode.cafe24.com/wp/archives/1170
+slug: '%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%9d%b4%ec%a0%84'
+title: 블로그 이전
+wordpress_id: 1170
+categories:
+- Blog
+- IT
+---
+
+[이용하던 웹호스팅 업체](http://www.tongkni.co.kr/index.asp)의 일방적인 서비스 중단 통보를 받고 부랴부랴 블로그 이전을 하였다. 이전에 따른 여러 비용을 생각할 때, 안정적인 서비스를 제공받는 것이 중요하다고 생각하여 비용이 좀 들어도 망하지 않을 업체를 선택하고자 했다.
+
+
+
+
+데이터 이전은 기존 테이블을 XML로 Export하고, 해당 파일을 새로운 블로그에서 Import 하는 방식으로 하여 후딱 끝냈다. 좋은 툴이다.
+
+
+
+
+옮기면서 기존에 사용하던 기능을 대부분을 유지했지만 테마와 플러그인 몇 가지는 바꿨다.
+
+
+
+
+이전 내용을 정리해 본다.
+
+
+
+
+<blockquote>
+	
+> 
+> 
+		
+>   * 웹호스팅 서비스: [카페24](http://www.cafe24.com/hosting/hosting_64bitautobahn_spec.php)
+> 
+		
+>   * 테마: [Hybird](http://themehybrid.com/themes/hybrid) and [Structure](http://themehybrid.com/themes/structure)
+> 
+		
+>   * 설치한 플러그인 목록
+			
+				
+>     1. [**CKEditor for WordPress**](http://wordpress.org/extend/plugins/ckeditor-for-wordpress/)
+> 
+				
+>     2. [**coolEye**](http://wordpress.org/extend/plugins/cooleye/)
+> 
+				
+>     3. [**Highslide for Wordpress *reloaded***](http://wordpress.org/extend/plugins/highslide-4-wordpress-reloaded/)
+> 
+				
+>     4. [**Picasa Express x2**](http://wordpress.org/extend/plugins/picasa-express-x2/)
+> 
+				
+>     5. [**TwitPic**](http://wordpress.org/extend/plugins/twitpic/)
+> 
+				
+>     6. [**Twitter for Wordpress**](http://wordpress.org/extend/plugins/twitter-for-wordpress/)
+> 
+				
+>     7. [**WordPress.com Stats**](http://wordpress.org/extend/plugins/stats/)
+> 
+				
+>     8. [**WordPress Importer**](http://wordpress.org/extend/plugins/wordpress-importer/)
+> 
+				
+>     9. [**WP-Table Reloaded**](http://wordpress.org/extend/plugins/wp-table-reloaded/)
+> 
+				
+>     10. [**WP Archive-Sitemap Generator**](http://wordpress.org/extend/plugins/wp-archive-sitemap-generator/)
+> 
+				
+>     11. **[WPtouch](http://wordpress.org/extend/plugins/wptouch/)**
+> 
+			
+		
+> 
+	
+</blockquote>
+
+
+
+
+때를 봐서 각각에 대한 자세한 내용을 정리해보고 싶다.
+
+
+
+
+
+
+
+
+

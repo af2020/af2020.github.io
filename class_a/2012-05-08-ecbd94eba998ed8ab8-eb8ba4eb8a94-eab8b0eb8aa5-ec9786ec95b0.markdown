@@ -1,0 +1,16 @@
+---
+author: admin
+comments: false
+date: 2012-05-08 04:11:19+00:00
+layout: post
+link: http://hubnode.cafe24.com/wp/archives/1645
+slug: '%ec%bd%94%eb%a9%98%ed%8a%b8-%eb%8b%a4%eb%8a%94-%ea%b8%b0%eb%8a%a5-%ec%97%86%ec%95%b0'
+title: 코멘트 다는 기능 없앰.
+wordpress_id: 1645
+---
+
+블로그에 코멘트 쓰는 기능이 의미없는 것 같아서 막았다. 사실 그 동안 스팸 광고들이 주로 사용해 왔었다.
+
+나도 다른 사람의 블로그에 댓글을 달기보다는 해당 포스트를 트윗에 걸어 RT하면서 의견 추가하는 것으로 사용하게 된다.
+
+

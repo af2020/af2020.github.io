@@ -1,0 +1,193 @@
+---
+author: admin
+comments: false
+date: 2013-01-23 12:59:00+00:00
+layout: post
+link: http://hubnode.cafe24.com/wp/archives/1794
+slug: '%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%ed%95%84%ec%88%98-%ec%95%b1-%ec%a0%95%eb%a6%ac'
+title: 안드로이드 필수 앱 정리
+wordpress_id: 1794
+categories:
+- IT
+---
+
+[![android](http://hubnode.cafe24.com/wp/wp-content/uploads/2013/01/android.jpg)](http://hubnode.cafe24.com/wp/wp-content/uploads/2013/01/android.jpg)
+
+개인적으로 필수앱이라고 생각되는 것들을 정리함.
+지속적인 업데이트 예정.
+
+
+* Launcher
+
+
+
+
+<blockquote>
+	
+> * 고런처 
+> 
+</blockquote>
+
+
+
+
+
+* Memo
+
+
+
+
+<blockquote>
+	
+> * Evernote, Evernote Widget: 기능은 많고, 다른 앱과의 연계는 좋으나 Gnotes에 비하여 너무 무겁다. 
+> 
+	
+> * Skitch 
+> 
+	
+> * Gnotes 
+> 
+</blockquote>
+
+
+
+
+* Task
+
+
+
+
+<blockquote>
+	
+> * Gtask 
+> 
+</blockquote>
+
+
+
+
+* Calendar
+
+
+
+
+<blockquote>
+	
+> * Gemini Calendar: 아직 최적앱을 찾지 못한 상태에서 사용중임 
+> 
+	
+> * Smooth Calendar Widget : Gemini Calendar를 실행앱으로 연계하여 사용 
+> 
+</blockquote>
+
+
+
+
+* email
+
+
+
+
+<blockquote>
+	
+> * gmail 
+> 
+</blockquote>
+
+
+
+
+* 화면 밝기 조절
+
+
+
+
+<blockquote>
+	
+> * brightness level widget 
+> 
+</blockquote>
+
+
+
+
+* 음량 조절
+
+
+
+
+<blockquote>
+	
+> * Volume Control + 
+> 
+</blockquote>
+
+
+
+
+* Reading
+
+
+
+
+<blockquote>
+	
+> * 모두의 신문
+> 
+	
+> * gReader
+> 
+</blockquote>
+
+
+
+
+* Web Browser
+
+
+
+
+<blockquote>
+	
+> * Dolphin HD
+> 
+	
+> * Opera Mobile
+> 
+	
+> * Chrome
+> 
+	
+> * cMarks Lite
+> 
+
+</blockquote>
+
+
+
+
+* Social
+
+
+
+
+<blockquote>
+	
+> * Facebook
+> 
+	
+> * Tweet Deck
+> 
+	
+> * Google Plus
+> 
+	
+> * Yammer
+> 
+</blockquote>
+
+
+
+
+
+
