@@ -4,7 +4,7 @@ comments: false
 date: 2014-04-08 15:04:08+00:00
 layout: post
 link: http://hubnode.cafe24.com/wp/archives/2006
-slug: '%ed%94%84%eb%a6%ac%ec%a0%a0%ed%85%8c%ec%9d%b4%ec%85%98%ec%97%90%ec%84%9c-%ea%b3%a0%eb%a0%a4%ed%95%a0-%ec%a4%91%ec%9a%94%ed%95%9c-%ea%b2%83%eb%93%a4'
+slug: '2014-04-08-good-presentation'
 title: 프리젠테이션에서 고려할 중요한 것들
 wordpress_id: 2006
 ---
